@@ -2,6 +2,7 @@
 - 🌱Aspiring Project Manager 
 - 💞️ Bsc(Hons) Software Engineering 
 - 📫 How to reach me : contanct me via Linkedin www.linkedin.com/in/selma-al-zarrouk-6358a71bb 
+- ✨Fun Fact I am currently working on a 3d game called Project LUNAR (using Blender to create 3d character models)& Unity Software too!
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
