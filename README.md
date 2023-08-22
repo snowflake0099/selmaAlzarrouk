@@ -28,9 +28,6 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/selma-al-zarrouk-6358a71bb"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/selma9_9/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
 <!---note to self change the  href = "http for when i create my youtube chanel and twitter x  
