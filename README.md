@@ -5,16 +5,30 @@
 - ✨Fun Fact I am currently working on a 3d game called Project LUNAR (using Blender to create 3d character models)& Unity Software too!
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://www.php.net/" target="_blank">
-  <img src="https://www.php.net/images/logos/php-logo.svg" alt="PHP Logo" /> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>    
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+<p align="left">
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" style="width: 48px; height: 48px;"/>
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://www.php.net/images/logos/php-logo.svg" alt="PHP Logo" style="width: 48px; height: 48px;"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" style="width: 48px; height: 48px;"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" style="width: 48px; height: 48px;"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" style="width: 48px; height: 48px;"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/css3.png" style="width: 48px; height: 48px;"/>
+  </a>
+  <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" style="width: 48px; height: 48px;"/>
+  </a>
+</p>
+
    
    
   
