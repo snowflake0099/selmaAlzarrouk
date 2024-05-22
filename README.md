@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Snowflake
-- 🌱Aspiring Project Manager 
+- 🌱Aspiring SE Project Manager 
 - 💞️ Bsc(Hons) Software Engineering - First class Honours :)
 ## 🚀 Languages and Tools:
 
